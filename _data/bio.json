@@ -12,7 +12,7 @@
       { "network": "github", "username": "columbaanita", "url": "http://github.com/columbaanita" },
       { "network": "linkedin", "username": "columbasanchez", "url": "https://www.linkedin.com/in/columba-sanchez-3a49162a9/" },
       { "network": "instagram", "username": "columbaanita", "url": "http://instagram.com/columbaanita" }
-    ],
+    ]
   },
   "interests": [
     { "name": "Accounting" },
@@ -29,8 +29,8 @@
       "startDate": "2021-08-01"
       "endDate": "Present",
       "courses": [
-      ],
-    },
+      ]
+    }
   ],
   "work": [
     {
@@ -41,11 +41,11 @@
       "endDate": "Present",
       "summary": "",
       "highlights": 
-    },
+    }
   ],
   "references": [
     {
       "name": "Available upon request"
-    },
-  ],
-},
+    }
+  ]
+}
