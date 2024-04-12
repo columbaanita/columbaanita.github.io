@@ -1,0 +1,41 @@
+---
+layout: essay
+type: essay
+title: "E4:"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-11
+published: true
+labels:
+  - JAVASCRIPT Programs -A1
+---
+## 1: My programming skills have greatly improved in the following ways:
+1. I understand the different uses for HTML, JAVASCRIPT, CSS and JSON. HTML is the basic framework for presenting content on a webpage including text, images, and other elements. JAVASCRIPT is for adding dynamic behaviors in a web page to manipulate your HTML elements and respond to user actions; it has been most useful for fetching data from servers without reloading my page. CSS is useful to help control the layout, colors, fonts and other design elements for styling my HTML elements. JSON is useful for sending data from the server to the client. 
+2. I am familiar with loops, arrays, objects, functions, data types and variables. Loops are useful when I need to repeat a block of code multiple times, it shortens my code, it's a better alternative to repetitive scripts. Arrays are useful for storing data and you can pass that array to a function for processing, using variables to store and manipulate data within your program. Functions are useful when you want to reuse code multiple types or to simplify large blocks of code to smaller chunks. 
+
+## 2 I need to work on the following to improve my programming skills:
+I need to work on how I write and apply my code when trying to do labs and assignments. 
+To improve this I will follow these steps:  
+1. Read the requirements
+2. Think about what I need to do for the requirement
+3. Think about what I want to do with what I need to do
+4. Think about how to do it
+5. Apply the code in small chunks 
+6. See what works and what doesn't work
+7. Adjust and keep checking
+
+## 3 I have learned a lot from doing WODs and I can do them without copying the screencast:
+I have learned a great deal of code and web applications to feel fairly confident I could do the BrowserHistory, DayOfTheWeek, Invoice and MakingChange WODs without a screencast. Store1 and SmartPhoneProducts I could use more help with but in time I can see myself being able to complete these on my own with practice. Completing WODs takes a lot of time because of trial and errors. My experience with the WODs has been upsetting because I had trouble understanding what the assignment was asking me to do and how I could write the right code. I almost always turn them in a few minutes before the deadline or late.
+
+## 4 The labs have help me learn and I am able to complete them with confidence:
+I could not do these labs on my own respectively. No confidence in this area because the labs ask so much from us. The slides and readings also don't really help in explaining how to implement the things they ask. Doing the labs in class are also difficult to grasp because we either go too fast or spend too much time on the presentation slide. The exercises in the labs can be super difficult or super simple but I don't think I could do them on my own. 
+
+## 5 I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+I feel ready to start on Assignment 2 as soon as possible. I took too long to start on Assignment 1 and was really behind and super stressed. Also I will apply my new steps for improving my programming skills. One last thing I have learned from my experience doing Assignment 1 is to ask for help sooner rather than later. 
+
+## 6 I think the class can be improved to help my learning in the following ways:
+1. Focus on labs instead of presentation slide because we run out of class time to finish the labs
+2. Screencasts for Labs
+3. One on one help sessions/ in-person help sessions
+
+## 7 What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+What helps me the most in class is one on one help, screencasts, working with classmates and WODS. One on ones help me the most when I write too much code and have too many errors that I need help identifying. WODs help me apply what I learn in the labs and is good practice, when I get stuck the screencasts help me get back on track.
